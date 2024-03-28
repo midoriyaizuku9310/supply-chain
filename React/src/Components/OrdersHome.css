@@ -1,0 +1,42 @@
+.landing-page-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 550px;
+    background-image: url('https://img.freepik.com/premium-vector/inventory-control-system-concept-professional-manager-checking-goods-stock-supply-inventory-management-with-goods-demand_185038-803.jpg');
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position:center;
+    padding-top: 60px;
+ 
+  }
+ 
+  .card {
+    background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent white background */
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 300px;
+  }
+ 
+  .card h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #333; /* Dark text color */
+  }
+ 
+  .icon {
+    font-size: 36px;
+    color: #007bff; /* Change the color as needed */
+  }
+  
+ 
+  .card-link {
+    text-decoration: none;
+    color: #333;
+  }
+ 
+  .card-link:hover {
+    background-color: rgba(255, 255, 255, 0.5); /* Semi-transparent white background on hover */
+  }

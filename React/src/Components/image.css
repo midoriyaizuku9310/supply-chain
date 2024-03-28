@@ -1,0 +1,22 @@
+
+.img-fluid{
+    width: 100%;
+    height: auto;
+}
+.overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+  
+  .overlay h1 {
+    font-size: 60px;
+    font-weight: bold;
+    color: white;
+  }
+
+  .custom-font{
+    font-family: 'Roboto';
+  }
